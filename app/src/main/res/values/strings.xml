@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI APP</string>
+    <string name="wgt">Enter Your Weight In KGs</string>
+    <string name="hgtFt">Enter Your Height in Feet</string>
+    <string name="hgtIn">Enter Your Height in Inch</string>
+    <string name="result">RESULT</string>
+    <string name="cal">Calculate BMI</string>
+</resources>
